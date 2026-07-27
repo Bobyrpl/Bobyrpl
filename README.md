@@ -3,12 +3,16 @@
 <!-- BANNER: ganti "Nama+Kamu" & warna sesuai selera. Generator: https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Halo,%20Saya%20[NAMA_KAMU]&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### 💻 [Tagline singkat kamu — misal: "Full-Stack Developer | Suka bikin hal keren dengan kode"]
+<!-- TYPING ANIMATION: ganti teks di parameter "lines" (pisah dengan ;) -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Suka+bikin+hal+keren+dengan+kode+%E2%9C%A8;Selalu+belajar+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://link-portfolio-kamu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username-kamu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
+
+<!-- VISITOR COUNTER: ganti USERNAME_KAMU -->
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -61,7 +65,34 @@
 
 ---
 
+### 🏆 Trophy Showcase
+
 <div align="center">
+
+<!-- Ganti USERNAME_KAMU. Ini otomatis nampilin "achievement" berdasar aktivitas GitHub kamu -->
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight&no-frame=true&row=1&column=7" width="97%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Butuh setup GitHub Action sekali (generator: https://github.com/Platane/snk) supaya animasinya update otomatis tiap hari -->
+<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- QUOTE ACAK: ganti tipe/tema sesuai selera -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 
