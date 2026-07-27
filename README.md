@@ -159,6 +159,5 @@ Setup: 1) Fork/copy generator https://github.com/Platane/snk
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wvp2o75eohc5jk73g27djgjglm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
