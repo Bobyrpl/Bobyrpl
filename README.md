@@ -20,11 +20,8 @@
 
 ### 🚀 Tentang Saya
 
-- 🔭 Sedang mengerjakan **[nama project]**
-- 🌱 Lagi belajar **[teknologi baru]**
-- 💬 Tanya saya soal **[topik keahlianmu]**
-- ⚡ Fun fact: **[sesuatu yang unik tentang kamu]**
-
+- 🔭 Sedang mengerjakan Aplikasi Parkir UKK
+- 🌱 Lagi belajar JS,Laravel,React js 
 ---
 
 ### 🛠️ Tech Stack
@@ -50,7 +47,7 @@
 
 ### 🔨 Currently Building
 
-[Deskripsi singkat — misal: "Membangun produk SaaS, aplikasi full-stack, dan tools internal dengan fokus reliability dan practical value."]
+
 
 ---
 
