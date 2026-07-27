@@ -159,6 +159,6 @@ Setup: 1) Fork/copy generator https://github.com/Platane/snk
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF0000&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wvp2o75eohc5jk73g27djgjglm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)/>
 
 </div>
