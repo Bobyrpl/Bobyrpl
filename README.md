@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
 
 <!-- VISITOR COUNTER: ganti USERNAME_KAMU -->
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=BobyrplU&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -54,8 +54,8 @@
 
 <!-- Ganti "USERNAME_KAMU" dengan username GitHub asli kamu di SEMUA link di bawah -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bobyrpl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobyrpl&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true" width="97%"/>
 
