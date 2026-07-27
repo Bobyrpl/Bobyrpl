@@ -22,6 +22,12 @@
 <!-- VISITOR COUNTER: ganti Bobyrpl -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Bobyrpl&color=FF8C00&style=for-the-badge&label=PROFILE+VIEWS)
 
+<!-- SPOTIFY NOW PLAYING: butuh setup dulu.
+     1) Buka https://spotify-github-profile.vercel.app , login pakai akun Spotify kamu
+     2) Fork repo novatorem/spotify-github-profile, ikuti panduan setup GitHub Action + secrets (SPOTIFY_REFRESH_TOKEN, dll)
+     3) Setelah dapat "uid", ganti "SPOTIFY_UID" di bawah -->
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=FF8C00&bar_color_cover=false&interchange=false" width="350"/>
+
 <!-- Divider animasi wave tipis, biar transisi antar section gak kaku -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -51,6 +57,21 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+### 📚 Currently Learning
+
+<div align="center">
+
+<!-- Progress bar dari progress-bar.xyz, angka % tinggal disesuaikan progress belajar kamu -->
+<img src="https://progress-bar.xyz/80/?title=JavaScript&color=FF0000" width="45%"/>
+<img src="https://progress-bar.xyz/65/?title=Laravel&color=FF8C00" width="45%"/>
+<br/>
+<img src="https://progress-bar.xyz/55/?title=React%20JS&color=FFD700" width="45%"/>
+<img src="https://progress-bar.xyz/40/?title=TypeScript&color=FF4500" width="45%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -58,6 +79,22 @@
 <!-- skillicons.dev punya efek hover ringan & lebih rapi daripada badge shields satu-satu -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,git,docker&theme=dark&perline=10" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<!-- Kartu repo pilihan. Ganti "repo=" dengan nama repo asli kamu, dan "username=Bobyrpl" kalau belum -->
+<a href="https://github.com/Bobyrpl/nama-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bobyrpl&repo=nama-repo-1&theme=gruvbox&hide_border=true" width="45%"/>
+</a>
+<a href="https://github.com/Bobyrpl/nama-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bobyrpl&repo=nama-repo-2&theme=gruvbox&hide_border=true" width="45%"/>
 </a>
 
 </div>
@@ -88,6 +125,18 @@
 
 <!-- Ganti Bobyrpl. Trophy ini otomatis "nyala" & animasinya nambah seiring aktivitas GitHub kamu -->
 <img src="https://github-profile-trophy.vercel.app/?username=Bobyrpl&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
+
+</div>
+
+### 🎖️ GitHub Achievements
+
+<div align="center">
+
+<!-- Badge achievement GitHub (Pull Shark, Quickdraw, dll) sifatnya otomatis dari GitHub sendiri,
+     gak ada API resmi buat nampilinnya sebagai gambar — tapi kamu bisa cek & pamer di sini -->
+[![Achievements](https://img.shields.io/badge/View%20My%20Achievements-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bobyrpl?tab=achievements)
+
+![Commits Badge](https://img.shields.io/badge/dynamic/json?color=FF4500&label=Total%20Commits&style=for-the-badge&logo=github&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ABobyrpl)
 
 </div>
 
